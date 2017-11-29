@@ -1,0 +1,5 @@
+public enum ReliabilityType {
+	UNRELIABLE,
+	RELIABLE_SEND_EVERY_PACKET,
+	RELIABLE_MAX_WAIT_TIME
+}
